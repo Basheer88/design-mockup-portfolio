@@ -1,0 +1,39 @@
+header {
+	border-bottom: 7px solid #7d97ad;
+	height: 90px;
+}
+
+h1{
+	font-size: 22px; 
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+.mypic {
+	width: 200px;
+	height: 200px;
+	border-width: 9px;
+}
+
+.card {
+	width: 150px;
+	height: 200px;
+}
+
+.card-img {
+	height: 150px;
+}
+
+a {
+	font-size: 18px;
+}
+
+p {
+	font-size: 18px;
+}
