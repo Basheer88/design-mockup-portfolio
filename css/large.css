@@ -2,6 +2,7 @@ body {
 	max-width: 900px;
 	margin: auto;
 }
+
 header {
 	border-bottom: 10px solid #7d97ad;
 	height: 110px;
@@ -34,6 +35,7 @@ h3 {
 .card:hover{
 	transform: scale(1.1);
 }
+
 .card-img {
 	height: 210px;
 }
